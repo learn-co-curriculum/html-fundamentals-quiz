@@ -88,7 +88,7 @@
 ( ) Denotes an automatic closing of the page.
 ( ) None of the above.
 
-?: It is the best practice to group all HTML files (and other subfolders) for a website into a single parent folder.
+?: It is the best practice to group all HTML files (and other sub-folders) for a website into a single parent folder.
 
 (X) TRUE
 ( ) FALSE
