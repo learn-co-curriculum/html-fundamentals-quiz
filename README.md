@@ -1,5 +1,11 @@
 # Quiz - HTML Fundamentals
 
+Congratulations, you have nearly finished the HTML fundamentals section! Before moving on to
+CSS, we've got one more quiz to complete. Check out the video below if you would like to review
+what we've learned before taking the quiz.
+
+<iframe width="75%" src="https://www.youtube.com/embed/EjQ7InjJqHk" frameborder="0" allowfullscreen></iframe>
+
 ???
 
 # HTML Fundamentals
